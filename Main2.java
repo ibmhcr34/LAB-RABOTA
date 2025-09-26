@@ -1,6 +1,8 @@
+#ЛАБ. РАБОТА 1 РЕШЕШИЕ НА JAVA ЗАДАЧА 2
+
 import java.util.ArrayList;
 
-public class Main {
+public class Main2 {
     public static void main(String[] args) {
         char[] arr = {'a', '1', 'b', '2', 'c', '3'};
         ArrayList<Character> letters = new ArrayList<Character>();
