@@ -1,3 +1,5 @@
+#ЛАБ. РАБОТА 1 РЕШЕШИЕ НА С++ ЗАДАЧА 2
+
 #include <iostream>
 #include <vector>
 #include <cctype>
