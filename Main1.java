@@ -1,4 +1,6 @@
-public class Main {
+#ЛАБ. РАБОТА 1 РЕШЕШИЕ НА JAVA ЗАДАЧА 2
+
+public class Main1 {
     public static void main(String[] args) {
         String s = "AaBbCcDd";
         StringBuilder big = new StringBuilder();
