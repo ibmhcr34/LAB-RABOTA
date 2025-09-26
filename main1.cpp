@@ -1,3 +1,5 @@
+#ЛАБ. РАБОТА 1 РЕШЕШИЕ НА С++ ЗАДАЧА 1
+
 #include <iostream>
 #include <string>
 
