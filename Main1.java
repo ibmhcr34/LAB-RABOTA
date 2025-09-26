@@ -1,4 +1,4 @@
-#ЛАБ. РАБОТА 1 РЕШЕШИЕ НА JAVA ЗАДАЧА 2
+#ЛАБ. РАБОТА 1 РЕШЕШИЕ НА JAVA ЗАДАЧА 1
 
 public class Main1 {
     public static void main(String[] args) {
